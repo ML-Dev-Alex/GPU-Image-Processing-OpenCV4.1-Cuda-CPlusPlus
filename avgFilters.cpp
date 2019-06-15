@@ -7,7 +7,7 @@ using namespace cv;
 
 static void help(){
     cout << "Usage: " << endl;
-    cout << "./imageProc <image_name>" << endl;
+    cout << "./avgFilters <image_name>" << endl;
 }
 
 
