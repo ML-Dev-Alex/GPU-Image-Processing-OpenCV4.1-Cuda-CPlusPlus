@@ -3,8 +3,8 @@ GPU Image processing using C++, Cuda and OpenCV4.1
 
 Threshold image example:
 <p>
-  <img width="300" height="400" src="template.png">
-  <img width="300" height="400" src="thresholdedImage.png">
+  <img width="60" height="80" src="template.png">
+  <img width="60" height="80" src="thresholdedImage.png">
 </p>
 
 
