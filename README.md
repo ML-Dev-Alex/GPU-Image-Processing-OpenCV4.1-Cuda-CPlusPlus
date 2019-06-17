@@ -4,8 +4,7 @@ GPU Image processing using C++, Cuda and OpenCV4.1
 Threshold example:
 
 <p>
-  <video width="320" height="200" src="originalThreshold.mp4" controls preload>
-  <video width="320" height="200" src="resoultThreshold.mp4" controls preload>
+  <video width="320" height="200" src="resoultThreshold.gif" controls preload>
 </p>
 
 
