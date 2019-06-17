@@ -1,11 +1,13 @@
 # GPU-Image-Processing-OpenCV4.1-Cuda-CPlusPlus
 GPU Image processing using C++, Cuda and OpenCV4.1
 
-Threshold image example:
+Threshold example:
+
 <p>
-  <video width="320" height="200" src="original.avi" controls preload>
-  <video width="320" height="200" src="resoult.avi" controls preload>
+  <video width="320" height="200" src="originalThreshold.mp4" controls preload>
+  <video width="320" height="200" src="resoultThreshold.mp4" controls preload>
 </p>
+
 
 <p>
   <img width="200" height="240" src="template.png">
@@ -14,6 +16,7 @@ Threshold image example:
 
 
 Blur with boxfilters example:
+
 <p>
   <img width="200" height="200" src="Blurred3x3.png">
   <img width="200" height="200" src="Blurred5x5.png">
