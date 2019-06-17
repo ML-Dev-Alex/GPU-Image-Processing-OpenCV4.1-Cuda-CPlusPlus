@@ -3,7 +3,7 @@ GPU Image processing using C++, Cuda and OpenCV4.1
 
 Median Filtering Example:
 
-![resoultMedian](resoultMedian.gif)
+![resoultMedian](median.gif)
 
 Sobel Example:
 
