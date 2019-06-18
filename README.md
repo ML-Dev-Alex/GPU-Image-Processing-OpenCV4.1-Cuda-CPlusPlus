@@ -5,6 +5,10 @@ Motion Detection Example:
 
 ![resoultMotion](motion.gif)
 
+Clahe Example:
+
+![resoultClahe](clahe.gif)
+
 Median Filtering Example:
 
 ![resoultMedian](median.gif)
