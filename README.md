@@ -1,6 +1,10 @@
 # GPU-Image-Processing-OpenCV4.1-Cuda-CPlusPlus
 GPU Image processing using C++, Cuda and OpenCV4.1
 
+Motion Detection Example:
+
+![resoultMotion](motion.gif)
+
 Median Filtering Example:
 
 ![resoultMedian](median.gif)
