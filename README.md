@@ -5,6 +5,10 @@ Median Filtering Example:
 
 ![resoultMedian](median.gif)
 
+Canny Edge Detection Example:
+
+![resoultCanny](canny.gif)
+
 Sobel Example:
 
 ![resoultSobel](resoultSobel.gif)
