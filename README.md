@@ -1,6 +1,9 @@
 # GPU-Image-Processing-OpenCV4.1-Cuda-CPlusPlus
 GPU Image processing using C++, Cuda and OpenCV4.1
 
+More examples:
+https://github.com/ML-Dev-Alex/OpenCV-Study
+
 Motion Detection Example:
 
 ![resoultMotion](motion.gif)
