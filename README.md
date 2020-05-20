@@ -4,6 +4,7 @@ GPU Image processing using C++, Cuda and OpenCV4.1
 More image and video processing examples:
 
 https://github.com/ML-Dev-Alex/OpenCV-Study
+
 https://github.com/ML-Dev-Alex/Face-Filters-With-OpenCV-Landmarks-Detection-and-Video-Processing
 
 
